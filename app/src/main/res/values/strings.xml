@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">1.1p</string>
+    <string name="convert">Convert</string>
+    <string name="result_will_appear_here">Result will appear here</string>
+    <string name="enter_value">Enter value</string>
+
+    <string-array name="length_units">
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Miles</item>
+        <item>Feet</item>
+    </string-array>
+
+    <string-array name="temp_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+</resources>
